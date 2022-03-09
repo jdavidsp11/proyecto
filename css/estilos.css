@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: blue;
+	font-weight: bold;
+	color:red;
+	font-size: 30px;
+}
